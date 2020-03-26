@@ -1,3 +1,5 @@
+// File for exploring the different navigators of react-navigation
+
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, Button, Image } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
